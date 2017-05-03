@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/linear_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <ImageView
+            android:id="@+id/right_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/gobackla"
+            android:layout_marginLeft="10dp"
+            />
+        <TextView
+            android:id="@+id/te_she"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="设置"
+           android:gravity="center"
+            android:layout_marginLeft="150dp"
+         />
+        <TextView
+            android:id="@+id/te_yjfg"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="意见反馈"
+            android:layout_marginLeft="120dp"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

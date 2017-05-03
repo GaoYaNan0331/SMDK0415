@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+  <Button
+      android:id="@+id/bu"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"/>
+
+  <TextView
+      style="?attr/titleStyle"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/title" />
+
+  <TextView
+      style="?attr/contentStyle"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/hello_world" />
+
+  <CheckBox
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="CheckBox"
+      android:textColor="?attr/checkTextColor" />
+
+  <CheckBox
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="CheckBox"
+      android:textColor="?attr/checkTextColor" />
+
+  <Switch
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Switch"
+      android:textColor="?attr/switchTextColor" />
+
+  <Button
+      android:id="@+id/btn_setting"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="设置"
+      android:background="?attr/buttonBg"
+      android:textColor="?attr/buttonTextColor" />
+
+</LinearLayout>

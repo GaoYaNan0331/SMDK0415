@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SMDK0415.iml" filepath="$PROJECT_DIR$/SMDK0415.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaoyanan0415a/gaoyanan0415a.iml" filepath="$PROJECT_DIR$/gaoyanan0415a/gaoyanan0415a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaoyanan0415test/gaoyanan0415test.iml" filepath="$PROJECT_DIR$/gaoyanan0415test/gaoyanan0415test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq_login0420/qq_login0420.iml" filepath="$PROJECT_DIR$/qq_login0420/qq_login0420.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenulibrary/slidingmenulibrary.iml" filepath="$PROJECT_DIR$/slidingmenulibrary/slidingmenulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threedemo0417/threedemo0417.iml" filepath="$PROJECT_DIR$/threedemo0417/threedemo0417.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" filepath="$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" />
+    </modules>
+  </component>
+</project>
